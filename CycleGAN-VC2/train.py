@@ -364,8 +364,8 @@ if __name__ == '__main__':
     src_coded_norm = './cache/src_coded_norm.pickle'
     target_coded_norm = './cache/target_coded_norm.pickle'
     model_checkpoint = './model_checkpoint/'
-    resume_training_at = './model_checkpoint/_CycleGAN_CheckPoint'
-    #resume_training_at = None
+    #resume_training_at = './model_checkpoint/_CycleGAN_CheckPoint'
+    resume_training_at = None
     validation_src = './data/sam/'
     output_src = './converted_data/sam'
     validation_target = './data/bea/'
