@@ -1,5 +1,7 @@
 # CycleGAN-CV2-model
-you should put your data in /data folder first.
+We did not reserve our pre-trained model in github.(Because our model is not sufficiently trained, if you want to get 
+the best performance, you can change the epoch size in train.py. you should put your data in /data folder first. What
+we put in/data folder is some test data.)
 
 STEP 1:
 
@@ -7,7 +9,6 @@ Install these python libraries:
 
 torch, librosa, tqdm, pyworld
 
-P.S. please do version check before run the code, some of the libraries should use previous version.
 
 STEP 2:
 
