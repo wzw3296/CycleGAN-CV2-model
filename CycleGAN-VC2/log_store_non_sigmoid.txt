@@ -1,0 +1,123 @@
+Epoch: 10 Generator Loss: 23.8094 Discriminator Loss: 0.07234217971563339, Time: 54.05
+
+
+Saving model Checkpoint  ......
+Epoch: 10 Generator Loss: 24.1275 Discriminator Loss: 0.05974043905735016, Time: 56.75
+
+
+Saving model Checkpoint  ......
+Epoch: 20 Generator Loss: 19.8461 Discriminator Loss: 0.02162974700331688, Time: 54.28
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 17.533689498901367
+Epoch: 30 Generator Loss: 20.5617 Discriminator Loss: 0.010967820882797241, Time: 55.06
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.003528118133545
+Epoch: 40 Generator Loss: 18.2345 Discriminator Loss: 0.004687862005084753, Time: 55.98
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.95789384841919
+Epoch: 50 Generator Loss: 18.8763 Discriminator Loss: 0.004161635413765907, Time: 54.76
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.91667890548706
+Epoch: 60 Generator Loss: 17.1188 Discriminator Loss: 0.0035081764217466116, Time: 55.74
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.680829048156738
+Epoch: 70 Generator Loss: 17.3497 Discriminator Loss: 0.021678894758224487, Time: 54.73
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.435420989990234
+Epoch: 80 Generator Loss: 17.6499 Discriminator Loss: 0.04374191164970398, Time: 385.21
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.288777828216553
+Epoch: 90 Generator Loss: 16.1414 Discriminator Loss: 0.12578314542770386, Time: 54.34
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.790003061294556
+Epoch: 100 Generator Loss: 16.6030 Discriminator Loss: 0.1182970330119133, Time: 53.37
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.422484636306763
+Epoch: 110 Generator Loss: 16.1406 Discriminator Loss: 0.11179657280445099, Time: 53.88
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.962335348129272
+Epoch: 120 Generator Loss: 15.2588 Discriminator Loss: 0.12124869227409363, Time: 51.72
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.937045097351074
+Epoch: 130 Generator Loss: 14.6184 Discriminator Loss: 0.11494751274585724, Time: 52.95
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.897530794143677
+Epoch: 140 Generator Loss: 13.8962 Discriminator Loss: 0.12564878165721893, Time: 52.44
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.982718229293823
+Epoch: 150 Generator Loss: 15.0155 Discriminator Loss: 0.1603405624628067, Time: 52.39
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.161144733428955
+Epoch: 160 Generator Loss: 12.8669 Discriminator Loss: 0.10657793283462524, Time: 54.72
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.103028059005737
+Epoch: 170 Generator Loss: 13.5981 Discriminator Loss: 0.08290703594684601, Time: 51.02
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.765231370925903
+Epoch: 180 Generator Loss: 12.9297 Discriminator Loss: 0.16673310101032257, Time: 50.29
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.60743236541748
+Epoch: 190 Generator Loss: 13.0158 Discriminator Loss: 0.14611054956912994, Time: 55.39
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.836129426956177
+Epoch: 200 Generator Loss: 12.4174 Discriminator Loss: 0.15942366421222687, Time: 54.30
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.110650777816772
+Epoch: 210 Generator Loss: 12.8300 Discriminator Loss: 0.10188045352697372, Time: 56.91
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.404426336288452
+Epoch: 220 Generator Loss: 13.2603 Discriminator Loss: 0.14024698734283447, Time: 52.88
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.093446969985962
+Epoch: 230 Generator Loss: 14.3604 Discriminator Loss: 0.08903422951698303, Time: 52.78
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 14.605052471160889
+Epoch: 240 Generator Loss: 12.5364 Discriminator Loss: 0.1663394570350647, Time: 53.39
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 15.562482595443726
